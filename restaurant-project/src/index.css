@@ -4,5 +4,9 @@
 :root {
   --font-family: "Libre Baskerville", serif;
 
-  --color-bg: ;
+  --color-bg: #04030f;
+  --color-footer: #362417;
+  --color-cuisine: #92817a;
+  --color-text: #fffbff;
+  --color-subtext: #f1dabf;
 }
